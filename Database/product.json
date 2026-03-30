@@ -1,0 +1,307 @@
+[
+  {
+    "_id": {
+      "$oid": "60799ee3c2c96719708b4762"
+    },
+    "id": 80,
+    "name": "Chó Corgi",
+    "urlRewriteName": "cho-corgi",
+    "categoryId": 8,
+    "description": "Chó Corgi hay còn gọi là Welsh Corgi là giống chó chăn gia súc có nguồn gốc từ xứ Wales (vương quốc Anh). Corgi có hai loại: Pembroke Corgi và Cardigan Corgi. Du nhập vào Việt Nam từ những năm 2010 nhưng đến năm 2019, sau bộ phim hoạt hình “The Queen’s Corgi – Những chú chó Hoàng gia” khởi chiếu, Corgi mới trở thành \"hot trend\" trong cộng đồng yêu cún Việt.\r\nTrong bài viết này, chúng tôi sẽ cập nhật Bảng giá chó Corgi mới nhất năm 2022. Các video hướng dẫn cách nuôi & chăm sóc. Cũng như giới thiệu các địa chỉ cửa hàng, trang trại bán chó Corgi thuộc hệ thống Dogily Farm & Petshop của Công ty Cổ phần Dogily Việt Nam tại Hà Nội, Tphcm & Đà Lạt.\r\nKhách hàng có thể trực tiếp lựa chọn mua chó Corgi tại các cơ sở gần nhất của Dogily Petshop. Hoặc đặt mua thông qua các tính năng Hotline, Youtube, Facebook & Zalo chat được tích hợp trực tiếp trên website của chúng tôi.",
+    "price": 24900000,
+    "sale": 10,
+    "isDeleted": false,
+    "salePrice": 22410000,
+    "photo": "1665227770997_corgi-vang-trang-duc-4-400x400.png",
+    "__v": 0,
+    "sale1": 10
+  },
+  {
+    "_id": {
+      "$oid": "60799ef9c2c96719708b4763"
+    },
+    "id": 81,
+    "name": "Chó Alaska",
+    "urlRewriteName": "cho-alaska",
+    "categoryId": 8,
+    "description": "Chó Alaska con giá bán 2022, mua giống chó Alaska tại Dogily Petshop Tphcm, Hà Nội ở đâu? \r\nChó Alaska (còn gọi là Alaskan Malamute) là giống chó kéo xe nổi tiếng nhất thế giới. Mặc dù có một vóc dáng to lớn, oai vệ nhưng chó Alaskan lại rất yêu trẻ con, thân thiện, hòa đồng và gần gũi với mọi người trong gia đình.\r\nTrong bài viết này, chúng tôi sẽ cập nhật Bảng giá chó Alaska Malamute size Giant khổng lồ, Oversize & Standard mới nhất năm 2022 tại Dogily. Các video hướng dẫn cách nuôi & chăm sóc. Cũng như giới thiệu các địa chỉ cửa hàng, trang trại thuộc hệ thống Dogily Farm & Petshop của Công ty Cổ phần Dogily Việt Nam tại Hà Nội, Tphcm & Đà Lạt.\r\nKhách hàng có thể trực tiếp lựa chọn mua chó Alaska con thuần chủng tại các cơ sở gần nhất của Dogily Petshop. Hoặc đặt mua thông qua các tính năng Hotline, Youtube, Facebook & Zalo chat được tích hợp trực tiếp trên website của chúng tôi.",
+    "price": 30000000,
+    "sale": 10,
+    "isDeleted": false,
+    "salePrice": 27000000,
+    "photo": "1665227865799_cho-alaska-400x400.jpg",
+    "__v": 0,
+    "sale1": 10
+  },
+  {
+    "_id": {
+      "$oid": "60799f37c2c96719708b4766"
+    },
+    "id": 84,
+    "name": "Chó Pug",
+    "urlRewriteName": "cho-pug",
+    "categoryId": 8,
+    "description": "Chó Pug là giống chó mặt xệ nổi tiếng có nguồn gốc xa xưa từ Trung Hoa cổ đại. Với ngoại hình nhỏ nhắn, tinh nghịch & vô cùng dễ thương. Giống chó này nhanh chóng trở thành vật nuôi ưa chuộng của giới hoàng gia, quý tộc Anh, Pháp. Kể từ thế kỷ 19, Pug Dog dần trở thành vật nuôi phổ biến tại nhiều quốc gia trên thế giới, trong đó có Việt Nam.\r\nTrong bài viết này, chúng tôi sẽ cập nhật Bảng giá chó Pug mặt xệ mới nhất năm 2022. Các video hướng dẫn cách nuôi & chăm sóc. Cũng như giới thiệu các địa chỉ cửa hàng, trang trại Pug mặt xệ thuộc hệ thống Dogily Farm & Petshop của Công ty Cổ phần Dogily Việt Nam tại Hà Nội, Tphcm & Đà Lạt.\r\nKhách hàng có thể trực tiếp lựa chọn mua chó Pug mặt xệ con tại các cơ sở gần nhất của Dogily Petshop. Hoặc đặt mua thông qua các tính năng Hotline, Youtube, Facebook & Zalo chat được tích hợp trực tiếp trên website của chúng tôi.",
+    "price": 34900000,
+    "sale": 5,
+    "isDeleted": false,
+    "salePrice": 33155000,
+    "photo": "1665227921940_cho-pug-mat-xe-05-400x400.jpg",
+    "__v": 0,
+    "sale1": 5
+  },
+  {
+    "_id": {
+      "$oid": "6079a0a1c2c96719708b476d"
+    },
+    "id": 91,
+    "name": "Chó Husky",
+    "urlRewriteName": "cho-husky",
+    "categoryId": 8,
+    "description": "Chó Husky Sibir (hay còn gọi là Siberian Husky) nổi tiếng với biệt danh “đại ngáo” đáng yêu. Xuất xứ theo là một giống chó kéo xe thuộc nhóm Spitz Bắc Cực, giống chó Husky Sibir được bộ tộc người Chukchi lai tạo để kéo xe trượt tuyết chở người và vật dụng trên khắp vùng Đông Bắc Sibir (nước Nga).",
+    "price": 40000000,
+    "sale": 10,
+    "isDeleted": false,
+    "salePrice": 36000000,
+    "photo": "1665228000577_husky-cai-3-thang-11-400x400.jpg",
+    "__v": 0,
+    "sale1": 10
+  },
+  {
+    "_id": {
+      "$oid": "6079a13ac2c96719708b4770"
+    },
+    "id": 94,
+    "name": "Anh lông ngắn xám xanh tai cụp",
+    "urlRewriteName": "anh-long-ngan-xam-xanh-tai-cup",
+    "categoryId": 9,
+    "description": "Mèo Anh lông ngắn xám xanh tai cụp, lông dày mượt, tính hiền lành, thân thiện và dễ chăm, phù hợp nuôi trong căn hộ và gia đình có trẻ nhỏ.",
+    "price": 4330000,
+    "sale": 15,
+    "isDeleted": false,
+    "salePrice": 3680500,
+    "photo": "1665228494090_meo-aln-tai-cup-xam-xanh-2-400x400.png",
+    "__v": 0,
+    "sale1": 15
+  },
+  {
+    "_id": {
+      "$oid": "6079a3ffc2c96719708b477b"
+    },
+    "id": 105,
+    "name": "Anh lông ngắn xám xanh",
+    "urlRewriteName": "anh-long-ngan-xam-xanh",
+    "categoryId": 9,
+    "description": "Mèo Anh lông ngắn xám xanh, thân hình chắc khỏe, lông ngắn dày, tính cách điềm tĩnh, ít kêu và rất dễ thích nghi với môi trường sống trong nhà.",
+    "price": 346000,
+    "sale": null,
+    "isDeleted": false,
+    "salePrice": 346000,
+    "photo": "1665228624438_aln-xam-xanh-truong-thanh-3-400x400.png",
+    "__v": 0,
+    "sale1": null
+  },
+  {
+    "_id": {
+      "$oid": "6162da4ee8f08f31644b0a14"
+    },
+    "id": 110,
+    "name": "Anh lông ngắn tai cụp trắng hai màu mắt",
+    "urlRewriteName": "anh-long-ngan-tai-cup-trang-hai-mau-mat",
+    "categoryId": 9,
+    "description": "Mèo Anh lông ngắn tai cụp màu trắng, hai màu mắt nổi bật, hiền lành, thích được vuốt ve và rất phù hợp với không gian yên tĩnh trong gia đình.",
+    "price": 499000,
+    "sale": 20,
+    "isDeleted": false,
+    "salePrice": 399200,
+    "photo": "1665228565672_meo-tai-cup-mau-trang-truong-thanh-hai-mau-mat-3-400x400.png",
+    "__v": 0,
+    "sale1": 20
+  },
+  {
+    "_id": {
+      "$oid": "6162db51e8f08f31644b0a16"
+    },
+    "id": 112,
+    "name": "Hạt Royal Cannin Second Age",
+    "urlRewriteName": "hat-royal-cannin-second-age",
+    "categoryId": 16,
+    "description": "Thức ăn khô Royal Canin Second Age cho mèo con, hỗ trợ tiêu hóa khỏe, tăng đề kháng và phát triển xương khớp trong giai đoạn 4–12 tháng tuổi.",
+    "price": 450000,
+    "sale": 50,
+    "isDeleted": false,
+    "salePrice": 225000,
+    "photo": "1665228382939_hat-catsrang-5-kg-1-510x510.jpg",
+    "__v": 0,
+    "sale1": 50
+  },
+  {
+    "_id": {
+      "$oid": "6162e445e8f08f31644b0a1c"
+    },
+    "id": 117,
+    "name": "Bát ăn đôi Oasispet cho chó mèo",
+    "urlRewriteName": "bat-an-doi-oasispet-cho-cho-meo",
+    "categoryId": 10,
+    "description": "Bát ăn đôi Oasispet cho chó mèo, chất liệu dễ vệ sinh, thiết kế hai ngăn tiện dùng cho nước và thức ăn, đáy chống trượt giúp thú cưng ăn uống thoải mái.",
+    "price": 920000,
+    "sale": 20,
+    "isDeleted": false,
+    "salePrice": 736000,
+    "photo": "1665228776854_1-510x510.png",
+    "__v": 0,
+    "sale1": 20
+  },
+  {
+    "_id": {
+      "$oid": "6162e492e8f08f31644b0a1d"
+    },
+    "id": 118,
+    "name": "Túi vận chuyển",
+    "urlRewriteName": "tui-van-chuyen",
+    "categoryId": 10,
+    "description": "Túi vận chuyển cho chó mèo có lưới thoáng khí, quai xách và dây đeo chắc chắn, phù hợp mang thú cưng đi chơi, đi khám hoặc di chuyển bằng xe máy, ô tô.",
+    "price": 700000,
+    "sale": 0,
+    "isDeleted": false,
+    "salePrice": 700000,
+    "photo": "1665228837754_tui-xach-van-chuyen-cao-su-510x510.jpg",
+    "__v": 0,
+    "sale1": 0
+  },
+  {
+    "_id": {
+      "$oid": "6162e5c5e8f08f31644b0a1e"
+    },
+    "id": 119,
+    "name": "Nhà cây cho mèo",
+    "urlRewriteName": "nha-cay-cho-meo",
+    "categoryId": 10,
+    "description": "Nhà cây (cat tree) cho mèo gồm nhiều tầng leo trèo, chỗ nằm và cột cào móng, giúp mèo vận động, giải trí và hạn chế cào hỏng đồ đạc trong nhà.",
+    "price": 249000,
+    "sale": 10,
+    "isDeleted": false,
+    "salePrice": 224100,
+    "photo": "1665228919596_nha-cay-cho-meo-cat-tree-d2-510x510.jpg",
+    "__v": 0,
+    "sale1": 10
+  },
+  {
+    "_id": {
+      "$oid": "6162e7d7e8f08f31644b0a20"
+    },
+    "id": 120,
+    "name": "Lồng vận chuyển Ferplast ",
+    "urlRewriteName": "long-van-chuyen-ferplast-",
+    "categoryId": 10,
+    "description": "Lồng vận chuyển Ferplast bằng nhựa cứng, cửa kim loại chắc chắn, thông thoáng, thích hợp cho chó mèo nhỏ khi đi xe máy, ô tô hoặc gửi hành lý máy bay.",
+    "price": 249000,
+    "sale": 10,
+    "isDeleted": false,
+    "salePrice": 224100,
+    "photo": "1665229032059_Long-van-chuyen-hang-khong-italia.jpg",
+    "__v": 0,
+    "sale1": 10
+  },
+  {
+    "_id": {
+      "$oid": "62e3ccd63a83e826a8db753d"
+    },
+    "id": 123,
+    "name": "Cát Nhật đen hương hoa hồng",
+    "urlRewriteName": "cat-nhat-den-huong-hoa-hong",
+    "categoryId": 16,
+    "description": "Cát vệ sinh Nhật đen hương hoa hồng cho mèo, khả năng vón cục nhanh, khử mùi tốt và ít bụi. Giúp khay vệ sinh luôn sạch sẽ, khô thoáng và dễ dọn dẹp.",
+    "price": 450000,
+    "sale": 0,
+    "isDeleted": false,
+    "salePrice": 450000,
+    "photo": "1665228970652_cat-nhat-den-8l-01-510x510.jpg",
+    "__v": 0,
+    "sale1": 0
+  },
+  {
+    "_id": {
+      "$oid": "62e3cd0a3a83e826a8db753e"
+    },
+    "id": 124,
+    "name": "Xương Yaho canxi cho chó",
+    "urlRewriteName": "xuong-yaho-canxi--cho-cho",
+    "categoryId": 16,
+    "description": "Xương nhai Yaho bổ sung canxi cho chó, hỗ trợ làm sạch răng miệng, giảm mảng bám và giúp thú cưng nhai gặm thoải mái. Phù hợp làm phần thưởng huấn luyện hằng ngày.",
+    "price": 350000,
+    "sale": 5,
+    "isDeleted": false,
+    "salePrice": 332500,
+    "photo": "1665228284536_xuong-yaho-ban-chai-ba-ga-sua-cho-cho-7-510x510.jpg",
+    "__v": 0,
+    "sale1": 5
+  },
+  {
+    "_id": {
+      "$oid": "62e3cd5f3a83e826a8db753f"
+    },
+    "id": 125,
+    "name": "Sổ giun mèo Drontal",
+    "urlRewriteName": "so-giun-meo-drontal",
+    "categoryId": 16,
+    "description": "Thuốc sổ giun Drontal dành cho mèo, giúp tiêu diệt nhiều loại giun đường ruột phổ biến. Dạng viên dễ cho uống, hỗ trợ bảo vệ hệ tiêu hoá và sức khỏe lâu dài cho mèo.",
+    "price": 370000,
+    "sale": 20,
+    "isDeleted": false,
+    "salePrice": 296000,
+    "photo": "1665228178935_so-giun-cho-meo-drontal-2-510x510.jpg",
+    "__v": 0,
+    "sale1": 20
+  },
+  {
+    "_id": {
+      "$oid": "63415f9c6f24a936dc8d369d"
+    },
+    "id": 126,
+    "name": "Mèo Munchkin Cream",
+    "urlRewriteName": "meo-munchkin-cream",
+    "categoryId": 9,
+    "description": "Mèo Munchkin lông ngắn màu cream, đôi chân ngắn đáng yêu, tính cách thân thiện, hoạt bát, thích chơi đùa và rất phù hợp nuôi trong căn hộ.",
+    "price": 2000000,
+    "sale": 0,
+    "isDeleted": false,
+    "salePrice": 2000000,
+    "photo": "1665228700017_meo-aln-munchkin-cream-6-400x400.png",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "00000000000000000000007f"
+    },
+    "id": 127,
+    "name": "Nex Gard cho chó",
+    "urlRewriteName": "nex-gard-cho-cho",
+    "categoryId": 13,
+    "description": "NexGard cho chó là sản phẩm hỗ trợ trị ve, bọ chét và ký sinh trùng ngoài da cho chó. Sử dụng định kỳ giúp bảo vệ sức khỏe thú cưng, dễ cho ăn và an toàn theo hướng dẫn của bác sĩ thú y.",
+    "price": 650000,
+    "sale": 0,
+    "isDeleted": false,
+    "salePrice": 532500,
+    "photo": "1665228331096_nex-gard-4-10-kg-1-510x510.jpg",
+    "__v": 0,
+    "sale1": 0
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000080"
+    },
+    "id": 128,
+    "name": "Hạt Cát Catsrang cho mèo",
+    "urlRewriteName": "hat-cat-catsrang-cho-meo",
+    "categoryId": 16,
+    "description": "Cát vệ sinh Catsrang cho mèo với khả năng vón cục nhanh, khử mùi tốt, hạn chế bụi, giúp chuồng nuôi luôn sạch sẽ và thoáng mát cho thú cưng.",
+    "price": 550000,
+    "sale": 0,
+    "isDeleted": false,
+    "salePrice": 450000,
+    "photo": "1665228382939_hat-catsrang-5-kg-1-510x510.jpg",
+    "__v": 0,
+    "sale1": 0
+  }
+]

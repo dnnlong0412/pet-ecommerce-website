@@ -1,0 +1,13 @@
+[
+  {
+    "_id": {
+      "$oid": "5f8b0dc2e95f47cdc246dc0a"
+    },
+    "id": 1,
+    "fullname": "Đào Nguyễn Ngọc Long",
+    "email": "admin@gmail.com",
+    "password": "$2a$16$7DNIJm6ye79xEyWDVwd88uuxZAt4LMkJ9heNIB7PD8zSlADMKFkPu",
+    "roles": ["ADMIN"],
+    "photo": "2274802010490_NgocLong.png"
+  }
+]

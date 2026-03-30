@@ -1,0 +1,62 @@
+[
+  {
+    "_id": {
+      "$oid": "60799dc7c2c96719708b475f"
+    },
+    "id": 8,
+    "name": "CHÓ CẢNH",
+    "urlRewriteName": "cho-canh",
+    "isDeleted": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60799dd3c2c96719708b4760"
+    },
+    "id": 9,
+    "name": "MÈO CẢNH",
+    "urlRewriteName": "meo-canh",
+    "isDeleted": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "60799de0c2c96719708b4761"
+    },
+    "id": 10,
+    "name": "VẬT DỤNG ĂN UỐNG CHO THÚ CƯNG",
+    "urlRewriteName": "vat-dung-an-uong-cho-thu-cung",
+    "isDeleted": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6162ac0fe8f08f31644b0a13"
+    },
+    "id": 13,
+    "name": "THỨC ĂN CHO THÚ CƯNG",
+    "urlRewriteName": "thuc-an-cho-thu-cung",
+    "isDeleted": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62e3cdeaaa30fe0559c440d8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6305d9b8864c29cba164f3cd"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63415b506f24a936dc8d369c"
+    },
+    "id": 16,
+    "name": "ĐỒ CHƠI, PHỤ KIỆN HUẤN LUYỆN",
+    "urlRewriteName": "do-choi,-phu-kien-huan-luyen",
+    "isDeleted": false,
+    "__v": 0
+  }
+]

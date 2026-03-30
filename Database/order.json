@@ -1,0 +1,39 @@
+[
+  {
+    "_id": {
+      "$oid": "634164816f24a936dc8d369e"
+    },
+    "id": 57,
+    "name": "Thái Sơn",
+    "email": "Sonn@gmail.com",
+    "phone": "0123451234",
+    "msg": "wwws",
+    "total": 22410000,
+    "status": 1,
+    "ship": "SG",
+    "payment": "TM",
+    "isDeleted": false,
+    "details": [
+      {
+        "price": 22410000,
+        "quantity": 1,
+        "item": {
+          "sale1": 10,
+          "__v": 0,
+          "photo": "1665227770997_corgi-vang-trang-duc-4-400x400.png",
+          "salePrice": 22410000,
+          "isDeleted": true,
+          "sale": 10,
+          "price": 24900000,
+          "description": "Chó Corgi hay còn gọi là Welsh Corgi là giống chó chăn gia súc có nguồn gốc từ xứ Wales (vương quốc Anh). Corgi có hai loại: Pembroke Corgi và Cardigan Corgi. Du nhập vào Việt Nam từ những năm 2010 nhưng đến năm 2019, sau bộ phim hoạt hình “The Queen’s Corgi – Những chú chó Hoàng gia” khởi chiếu, Corgi mới trở thành \"hot trend\" trong cộng đồng yêu cún Việt.\r\nTrong bài viết này, chúng tôi sẽ cập nhật Bảng giá chó Corgi mới nhất năm 2022. Các video hướng dẫn cách nuôi & chăm sóc. Cũng như giới thiệu các địa chỉ cửa hàng, trang trại bán chó Corgi thuộc hệ thống Dogily Farm & Petshop của Công ty Cổ phần Dogily Việt Nam tại Hà Nội, Tphcm & Đà Lạt.\r\nKhách hàng có thể trực tiếp lựa chọn mua chó Corgi tại các cơ sở gần nhất của Dogily Petshop. Hoặc đặt mua thông qua các tính năng Hotline, Youtube, Facebook & Zalo chat được tích hợp trực tiếp trên website của chúng tôi.",
+          "categoryId": 8,
+          "urlRewriteName": "cho-corgi",
+          "name": "Chó Corgi",
+          "id": 80,
+          "_id": "60799ee3c2c96719708b4762"
+        }
+      }
+    ],
+    "__v": 0
+  }
+]
